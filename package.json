@@ -1,0 +1,15 @@
+{
+  "name": "stylus + coffeescript + require.js  boilerplate",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "express": "3.0.0alpha1-pre",
+    "coffee-script": "*",
+    "eco": "*",
+    "stylus": "*",
+    "nib": "*"
+  }
+}
